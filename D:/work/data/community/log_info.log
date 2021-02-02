@@ -1,0 +1,36 @@
+2021-01-30 19:53:30,190 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:50] Starting MailTests on MacBookPro.local with PID 90961 (started by fzy in /Users/fzy/fuujiro/IDEA_Projects/community)
+2021-01-30 19:53:30,192 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-01-30 19:53:32,341 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-30 19:53:32,575 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-01-30 19:53:32,801 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:59] Started MailTests in 3.506 seconds (JVM running for 4.88)
+2021-01-30 19:53:36,462 INFO [Thread-2] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-30 19:59:48,133 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:50] Starting MailTests on MacBookPro.local with PID 91208 (started by fzy in /Users/fzy/fuujiro/IDEA_Projects/community)
+2021-01-30 19:59:48,135 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-01-30 19:59:50,682 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-30 19:59:50,955 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-01-30 19:59:51,213 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:59] Started MailTests in 4.14 seconds (JVM running for 5.653)
+2021-01-30 19:59:57,382 INFO [Thread-2] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-30 20:02:35,407 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:50] Starting MailTests on MacBookPro.local with PID 91301 (started by fzy in /Users/fzy/fuujiro/IDEA_Projects/community)
+2021-01-30 20:02:35,413 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-01-30 20:02:38,228 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-30 20:02:38,495 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-01-30 20:02:38,784 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:59] Started MailTests in 4.384 seconds (JVM running for 6.051)
+2021-01-30 20:02:40,679 INFO [Thread-2] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-30 20:05:05,417 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:50] Starting MailTests on MacBookPro.local with PID 91323 (started by fzy in /Users/fzy/fuujiro/IDEA_Projects/community)
+2021-01-30 20:05:05,420 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-01-30 20:05:07,570 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-30 20:05:07,769 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-01-30 20:05:07,968 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:59] Started MailTests in 3.433 seconds (JVM running for 4.799)
+2021-01-30 20:05:10,749 INFO [Thread-2] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-30 20:08:50,289 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:50] Starting MailTests on MacBookPro.local with PID 91360 (started by fzy in /Users/fzy/fuujiro/IDEA_Projects/community)
+2021-01-30 20:08:50,292 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-01-30 20:08:52,349 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-30 20:08:52,559 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-01-30 20:08:52,762 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:59] Started MailTests in 3.359 seconds (JVM running for 4.807)
+2021-01-30 20:09:03,386 INFO [Thread-2] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-30 20:24:58,913 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:50] Starting MailTests on MacBookPro.local with PID 91537 (started by fzy in /Users/fzy/fuujiro/IDEA_Projects/community)
+2021-01-30 20:24:58,917 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-01-30 20:25:01,016 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-30 20:25:01,228 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-01-30 20:25:01,440 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:59] Started MailTests in 3.359 seconds (JVM running for 4.773)
+2021-01-30 20:25:03,801 INFO [Thread-2] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
