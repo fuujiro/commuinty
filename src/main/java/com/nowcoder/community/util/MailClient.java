@@ -11,9 +11,6 @@ import org.springframework.stereotype.Component;
 import javax.mail.MessagingException;
 import javax.mail.internet.MimeMessage;
 
-/**
- * Created by fzy at 7:25 PM on 2021/1/30.
- */
 @Component
 public class MailClient {
 
@@ -32,10 +29,11 @@ public class MailClient {
             helper.setFrom(from);
             helper.setTo(to);
             helper.setSubject(subject);
-            helper.setText(content,true);
+            helper.setText(content, true);
             mailSender.send(helper.getMimeMessage());
         } catch (MessagingException e) {
-            logger.error("发送邮件失败："+e.getMessage());
+            logger.error("发送邮件失败:" + e.getMessage());
         }
     }
+
 }

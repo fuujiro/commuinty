@@ -10,10 +10,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.thymeleaf.TemplateEngine;
 import org.thymeleaf.context.Context;
 
-/**
- * Created by fzy at 7:42 PM on 2021/1/30.
- */
-
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @ContextConfiguration(classes = CommunityApplication.class)
@@ -27,18 +23,18 @@ public class MailTests {
 
     @Test
     public void testTextMail() {
-        mailClient.sendMail("fuujiro@qq.com","Test","Welcome.");
+        mailClient.sendMail("lihonghe@nowcoder.com", "TEST", "Welcome.");
     }
 
     @Test
     public void testHtmlMail() {
         Context context = new Context();
-        context.setVariable("username","sunday");
+        context.setVariable("username", "sunday");
 
-        String content = templateEngine.process("/mail/demo",context);
+        String content = templateEngine.process("/mail/demo", context);
         System.out.println(content);
 
-        mailClient.sendMail("fuujiro@qq.com","Html",content);
+        mailClient.sendMail("lihonghe@nowcoder.com", "HTML", content);
     }
 
 }
